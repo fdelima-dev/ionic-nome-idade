@@ -1,0 +1,7 @@
+{
+  "name": "nomeIdadeIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
